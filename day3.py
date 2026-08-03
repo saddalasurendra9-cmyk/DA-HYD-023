@@ -1,4 +1,4 @@
-''''#Numeric  datatypes  --> int ,float ,complex along with boolean
+#Numeric  datatypes  --> int ,float ,complex along with boolean
 
 #input fornatting  -->accepting input from the user --> input()
 
@@ -6,11 +6,11 @@
 #by defalut int()accepts any input -->str
 #input(input()) -->will accept only integers
 
-age = int(input('Enetr the age:'))
+age = input('Enetr the age:')
 print(age)
 print(type(age))
 
-
+'''
 #float of input -->
 age =float(input('Enetr the age:'))
 print(age)
