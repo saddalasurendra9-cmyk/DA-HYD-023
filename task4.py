@@ -55,6 +55,15 @@ while current <max_attempts:
 else:
      print("changes over")
 '''
+password =input("enter the value:")
+if password =="123":
+     print("you are enter greater num")
+     if password >"123":
+       print("you are enter smaller num")
+     if password < 123:
+         print("correct guess")
+else:
+    print("Not correct")
 
 
 
